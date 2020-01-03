@@ -1,0 +1,4 @@
+Fish Classification using Fast AI
+Created the dataset of 10 fishes using google images.
+Preprocessing the dataset, by deleteing the duplicate images.
+Achieved 97% accuracy.
